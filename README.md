@@ -1,7 +1,3 @@
-Here’s a clean, professional **README.md** you can directly paste into your GitHub repo. I’ve structured it properly for projects (with screenshots, features, tech, etc.).
-
----
-
 # 📱 CalcConvert Pro
 
 **CalcConvert Pro** is a multi-functional Android application that combines a **calculator** with essential daily utility tools like **unit conversion, temperature conversion, and age calculation** — all in one place.
@@ -38,27 +34,39 @@ Here’s a clean, professional **README.md** you can directly paste into your Gi
 
 ### 🔹 Home Screen
 
-![Home](attachment\:file_00000000b22c720a9b0abd614aed3637)
+![Home]
+<img width="754" height="1600" alt="image" src="https://github.com/user-attachments/assets/6c395b3a-6120-47d5-a4f6-c5cf8182cf88" />
+
 
 ### 🔹 Calculator
 
-![Calculator](attachment\:file_00000000f6c4720aa3b879d6aae54c27)
+![Calculator]
+<img width="1080" height="2266" alt="image" src="https://github.com/user-attachments/assets/1e696708-1e0a-4bc8-9dae-93b43aa00fad" />
+
 
 ### 🔹 Unit Converter
 
-![Unit Converter](attachment\:file_00000000fb4c720da67c4ea854dfc061)
+![Unit Converter]
+<img width="1080" height="2280" alt="image" src="https://github.com/user-attachments/assets/d4884734-443b-475e-9df6-1f66abcd3f4f" />
+
 
 ### 🔹 Temperature Converter
 
-![Temperature](attachment\:file_000000005020720990c669bad25a2a2d)
+![Temperature]
+<img width="1080" height="2276" alt="image" src="https://github.com/user-attachments/assets/461f3d0c-7df6-4a76-a38e-f2b8516c190a" />
+
 
 ### 🔹 Age Calculator
 
-![Age Calculator](attachment\:file_0000000015187209a23cc8bda727fdc9)
+![Age Calculator]
+<img width="833" height="1600" alt="image" src="https://github.com/user-attachments/assets/314c9c3b-a69b-4f2c-8fe5-c354661db6f4" />
+
 
 ### 🔹 App Modules View
 
-![Modules](attachment\:file_00000000009871f98625eb056dd1a182)
+![Modules]
+<img width="757" height="1600" alt="image" src="https://github.com/user-attachments/assets/94381983-51eb-4335-bd15-d17b2efe9830" />
+
 
 ---
 
@@ -132,11 +140,3 @@ This project is open-source and available under the MIT License.
 ## 👨‍💻 Author
 
 **Niraj Doiphode**
-
----
-
-If you want, I can also:
-
-* Make this README **ATS/project-review friendly** (for placements)
-* Add **badges (GitHub stars, license, etc.)**
-* Improve wording to sound more **final-year project level (important for your case)**
